@@ -64,9 +64,8 @@ StockApp is an **interactive financial analysis and stock tracking application**
 📍 *Make informed investment decisions*  
 ![Investor Data](streamnvda_investors.PNG)
 
-🎬 **[Watch the Full Demo Here](#)** *(Replace with a valid video link)*  
 
----
+
 
 ## 📌 GitHub Repository  
 🔗 **[Visit GitHub Repo](https://github.com/Fawad-Liaqat/stockapp)**  
