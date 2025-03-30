@@ -43,7 +43,7 @@ StockApp is an **interactive financial analysis and stock tracking application**
 ---
 
 ## 🌍 Deployment Link  
-👉 **[Try StockApp Live]((https://stockapp-awc2tfgj8xyuahz8oevphb.streamlit.app/))**  
+👉 Try StockApp Live 🚀 
 
 ---
 
